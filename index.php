@@ -15,7 +15,7 @@
                 <form action="contact.php" method="POST">
                     <div class="form-group">
                         <div class="text-center">
-                            <h1>Contactez-moi ! </h1>
+                            <h1>Contact</h1>
                         </div>
                         <div class="d-flex">
                             <input type="text" name="surname" placeholder="Nom" autocomplete="off" class="form-control"/>
